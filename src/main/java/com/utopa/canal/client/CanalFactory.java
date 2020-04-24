@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
 import java.net.InetSocketAddress;
 
 /**
- * @author authorZhao
+ * @author authorZhao 牛逼
  * @date 2020年04月15日
  */
 public class CanalFactory implements DisposableBean  {
